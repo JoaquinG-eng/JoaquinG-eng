@@ -40,5 +40,4 @@ Aplicación para organizar tareas y proyectos mediante tableros visuales. Incluy
 ## 📫 Contacto
 
 - LinkedIn: linkedin.com/in/joaquin-gonzalez-js
-- Portfolio: próximamente
 - Email: joamaldonado564@gmail.com
